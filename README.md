@@ -1,8 +1,7 @@
 # 📊 Telecom_analysis
 
 ## 📌 Overview 
-The HR Attrition Analysis project aims to explore and understand the key factors influencing employee attrition within an organization.
-Using interactive dashboards, the project analyzes workforce data to uncover patterns related to employee turnover, performance, compensation, demographics, and work-life balance.
+
 
 
 <hr/>
@@ -30,7 +29,7 @@ Using interactive dashboards, the project analyzes workforce data to uncover pat
 
 
 ## 📸 Dashboard samples 
-<img width="1329" height="742" alt="Screenshot 2025-09-16 193113" src="https://github.com/user-attachments/assets/619537eb-a907-4791-97ad-5eaffd69bdb8" />
+<img width="1321" height="751" alt="Screenshot 2025-09-17 200145" src="https://github.com/user-attachments/assets/9d77021a-ab79-43a2-9d52-628996fb3bcc" />
 <img width="1324" height="744" alt="Screenshot 2025-09-17 200203" src="https://github.com/user-attachments/assets/2a55b171-3284-4cca-9889-318dde266037" />
 
 
