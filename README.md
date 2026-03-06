@@ -30,6 +30,7 @@ The *Telecom Churn Analysis* project focuses on identifying the key factors infl
 ## 📂 Files Included  
 
 - Telecom_depi.pbix [Click here to download the report](Telecom_depi.pbix) – Power BI dashboard file
+- 
 - Figma_backgrounds.pdf [Click here to view the report](Figma_backgrounds.pdf) – Background designs created in Figma
 
 
