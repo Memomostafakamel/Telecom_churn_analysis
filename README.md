@@ -1,7 +1,8 @@
 # 📊 Telecom_analysis
 
-## 📌 Overview 
 
+## 📌 Project Overview
+The *Telecom Churn Analysis* project focuses on identifying the key factors influencing customer churn in a telecom company. Using *Power BI*, raw telecom customer data was transformed into interactive dashboards that highlight important business insights.
 
 
 <hr/>
@@ -13,9 +14,16 @@
   
 <hr/>
 
-## 🌟 Project Highlights  
 
 
+## 🔎 Project Highlights
+- Built **interactive dashboards using Power BI** to analyze customer churn behavior.
+- Calculated and visualized key KPIs including **Churn Rate, Churn Customers, and Total Revenue**.
+- Identified that **Month-to-Month contracts have the highest churn rate (46%)**, compared to only **3% for two-year contracts**.
+- Analyzed **churn reasons** and found that **competitor offers and customer dissatisfaction** are the main drivers.
+- Explored churn patterns across **demographics, contract types, and payment methods**.
+- Discovered that **paper check users have the highest churn rate (38%)**, while **credit card users show the lowest churn (14%)**.
+- Designed a **clean and user-friendly dashboard layout** to make insights easy to interpret for business stakeholders.
 
 <hr/>
 
