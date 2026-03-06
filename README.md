@@ -1,4 +1,4 @@
-# 📊 Telecom_analysis
+# 📊 Telecom_churn_analysis
 
 
 ## 📌 Project Overview
